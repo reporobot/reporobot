@@ -17,7 +17,7 @@ There is a (still in development) repository used in the [Git-it](http://www.git
 
 *A [Digital Ocean Droplet](https://www.digitalocean.com/community/articles/how-to-create-your-first-digitalocean-droplet-virtual-server) is running this code
 
-**Using a [cloudmailin](www.cloudmailin.com) webhook
+**Using a [cloudmailin](http://www.cloudmailin.com) webhook
 
 ### Additionally
 
